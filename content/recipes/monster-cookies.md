@@ -24,13 +24,13 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Preheat oven to 350.
-- 1. Mix together everything before oatmeal in mixer.
-- 1. Add oatmeal to mixer.
-- 1. Stir in M&Ms and chocolate chips by hand.
-- 1. Chill.
-- 1. Drop or roll in ball and flatten on cookie sheet.
-- 1. Bake 9-11 minutes.
+- Preheat oven to 350.
+- Mix together everything before oatmeal in mixer.
+- Add oatmeal to mixer.
+- Stir in M&Ms and chocolate chips by hand.
+- Chill.
+- Drop or roll in ball and flatten on cookie sheet.
+- Bake 9-11 minutes.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

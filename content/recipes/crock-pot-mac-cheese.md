@@ -22,10 +22,10 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Boil the macaroni in water for six minutes. You definitely want it to be on the firm side. Drain.
-- 1. In crock pot, combine sour cream, cheddar soup, salt, milk, mustard and pepper, mix. Add cheese, butter, and the drained macaroni and stir again.
-- 1. At this point it can be refrigerated until 3 hours before it should be served.
-- 1. Cook on low for 2 hours, stirring occasionally.
+- Boil the macaroni in water for six minutes. You definitely want it to be on the firm side. Drain.
+- In crock pot, combine sour cream, cheddar soup, salt, milk, mustard and pepper, mix. Add cheese, butter, and the drained macaroni and stir again.
+- At this point it can be refrigerated until 3 hours before it should be served.
+- Cook on low for 2 hours, stirring occasionally.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

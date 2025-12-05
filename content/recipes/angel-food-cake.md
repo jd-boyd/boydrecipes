@@ -22,15 +22,15 @@ Based on: http://www.foodnetwork.com/recipes/alton-brown/angel-food-cake-recipe
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Preheat oven to 350 degrees F.
-- 1. Separate egg whites from yolks.
-- 1. Divide sugar in half. Set aside half.
-- 1. Sift remaining sugar half with the salt the cake flour.
-- 1. In mixer bowl, hand whisk egg whites, water, orange extract, and cream of tartar. After 2 minutes, switch to mixer. Slowly sift the reserved sugar into eggs mixture, beating continuously at medium speed, continue mixing until medium peaks form.
-- 1. Once you have achieved medium peaks, remove bowl from mixer.
-- 1. Sift enough of the flour mixture in to dust the top of the foam. Using a large spatula fold in gently. Continue until all of the flour mixture is incorporated.
-- 1. Carefully spoon mixture into an un-greased tube pan. Bake for 35 minutes before checking doneness with a wooden skewer. (When inserted halfway between the inner and outer wall, the skewer should come out dry).
-- 1. Cool upside down on cooling rack for at least an hour before removing from pan.
+- Preheat oven to 350 degrees F.
+- Separate egg whites from yolks.
+- Divide sugar in half. Set aside half.
+- Sift remaining sugar half with the salt the cake flour.
+- In mixer bowl, hand whisk egg whites, water, orange extract, and cream of tartar. After 2 minutes, switch to mixer. Slowly sift the reserved sugar into eggs mixture, beating continuously at medium speed, continue mixing until medium peaks form.
+- Once you have achieved medium peaks, remove bowl from mixer.
+- Sift enough of the flour mixture in to dust the top of the foam. Using a large spatula fold in gently. Continue until all of the flour mixture is incorporated.
+- Carefully spoon mixture into an un-greased tube pan. Bake for 35 minutes before checking doneness with a wooden skewer. (When inserted halfway between the inner and outer wall, the skewer should come out dry).
+- Cool upside down on cooling rack for at least an hour before removing from pan.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

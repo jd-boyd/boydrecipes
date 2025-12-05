@@ -5,6 +5,14 @@ slug: roast-pork-tenderloin-with-pancetta-and-sage
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2019/01/img_20190128_1909057901706196328672924052.jpg" alt="Roast Pork Tenderloin with Pancetta and Sage" />
+</div>
+
+<div class="recipe-image">
+  <img src="/2019/01/img_20190128_1909057901706196328672924052.jpg" alt="" />
+</div>
+
 {{< recipe
   title="Roast Pork Tenderloin with Pancetta and Sage"
 >}}

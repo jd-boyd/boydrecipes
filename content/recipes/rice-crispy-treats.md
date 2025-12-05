@@ -5,6 +5,10 @@ slug: rice-crispy-treats
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2020/05/img_20200512_1305539251609873219608087536.jpg" alt="" />
+</div>
+
 {{< recipe
   title="Rice Crispy Treats"
 >}}
@@ -18,13 +22,13 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Prepare a 9"x9" pan. Butter will work, but a parchment sling coated with butter will make removal even easier.
-- 1. Melt butter over low in a pan that will be large enough to eventually add the rice crispies. A wok or a large metal mixing bowl may be ideal.
-- 1. Let butter cool to 140°F.
-- 1. Melt marshmallows into butter. This may require placing back on heat, but try to keep temperature around 140°F. Lower temperatures help prevent the treats being tough.
-- 1. Add vanilla and salt.
-- 1. Add rice crispies.
-- 1. Move mixture into 9"x9" pan, and allow to cool.
+- Prepare a 9"x9" pan. Butter will work, but a parchment sling coated with butter will make removal even easier.
+- Melt butter over low in a pan that will be large enough to eventually add the rice crispies. A wok or a large metal mixing bowl may be ideal.
+- Let butter cool to 140°F.
+- Melt marshmallows into butter. This may require placing back on heat, but try to keep temperature around 140°F. Lower temperatures help prevent the treats being tough.
+- Add vanilla and salt.
+- Add rice crispies.
+- Move mixture into 9"x9" pan, and allow to cool.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

@@ -22,14 +22,14 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Roast turkey parts at 450°F for 45 minutes.
-- 1. De-glaze roasting pan with 1-2C water
-- 1. Place turkey parts, vegetables and herbs, de-glazing liquid and remaining 10-11C water into a stock pot (or dutch oven).
-- 1. Simmer for 4 hours.
-- 1. The goal is to reduce by one third to one half, but that can be hard to tell while in pot with solids.
-- 1. Remove easy to grip solids.
-- 1. Pour remainder through a fine mesh strainer into a new bowl.
-- 1. If more than 7 cups remain, place liquid back in pot to reduce down to around 6 cups.
+- Roast turkey parts at 450°F for 45 minutes.
+- De-glaze roasting pan with 1-2C water
+- Place turkey parts, vegetables and herbs, de-glazing liquid and remaining 10-11C water into a stock pot (or dutch oven).
+- Simmer for 4 hours.
+- The goal is to reduce by one third to one half, but that can be hard to tell while in pot with solids.
+- Remove easy to grip solids.
+- Pour remainder through a fine mesh strainer into a new bowl.
+- If more than 7 cups remain, place liquid back in pot to reduce down to around 6 cups.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

@@ -18,10 +18,10 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Blend yolks with pepper and a little lemon juice until you smell it while it's moving.
-- 1. After 3 minutes, slowly pour in melted butter in a steady stream while the blender is on high.
-- 1. Blend on high 3-5 minutes adding lemon juice to taste.
-- 1. Add cayenne pepper to taste at end.
+- Blend yolks with pepper and a little lemon juice until you smell it while it's moving.
+- After 3 minutes, slowly pour in melted butter in a steady stream while the blender is on high.
+- Blend on high 3-5 minutes adding lemon juice to taste.
+- Add cayenne pepper to taste at end.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

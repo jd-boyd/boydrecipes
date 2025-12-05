@@ -25,13 +25,13 @@ Based loosely on: https://momswithcrockpots.com/slow-cooked-collard-greens/
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Rinse collards, remove thick stems, tear into small strips
-- 1. Cook bacon in skillet.
-- 1. Place bacon and drippings in crock pot.
-- 1. Add rest of ingredients to crock pot.
-- 1. Cook on low for 6 hours or high for 3 hours.
-- 1. Remove hock, discard bones and other inedible bits.  Shred rest and return to crockpot.
-- 1. Serve.
+- Rinse collards, remove thick stems, tear into small strips
+- Cook bacon in skillet.
+- Place bacon and drippings in crock pot.
+- Add rest of ingredients to crock pot.
+- Cook on low for 6 hours or high for 3 hours.
+- Remove hock, discard bones and other inedible bits.  Shred rest and return to crockpot.
+- Serve.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

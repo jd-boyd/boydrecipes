@@ -20,11 +20,11 @@ This is similar to Christmas Eve Shortcut Cinnamon Buns
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Mix dry ingredients.
-- 1. Put rolls in bundt pan, toss with dry mix.
-- 1. Drizzle with butter.
-- 1. Let sit 8-10 hours (overnight can result in too much rising, but try if you want), covered with plastic wrap or wet cloth.
-- 1. Put in 350deg F oven (perhaps on top of cookie sheet in case of spillage) for 25-30 minutes.
+- Mix dry ingredients.
+- Put rolls in bundt pan, toss with dry mix.
+- Drizzle with butter.
+- Let sit 8-10 hours (overnight can result in too much rising, but try if you want), covered with plastic wrap or wet cloth.
+- Put in 350deg F oven (perhaps on top of cookie sheet in case of spillage) for 25-30 minutes.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

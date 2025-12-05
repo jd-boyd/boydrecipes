@@ -39,7 +39,7 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 2. add the spices. Add water to just cover the meat and salt to
+- add the spices. Add water to just cover the meat and salt to
 - taste. Cover and cook on low until the meat is tender, about 4-8
 - hours. (Displace the lid a little after a few hours if there appears to be
 {{< /recipe-instructions >}}

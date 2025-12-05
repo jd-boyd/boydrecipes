@@ -23,3 +23,9 @@ theme = 'summer-qremix'
 # Author info for RSS
 [author]
   name = 'Boyd Recipes'
+
+# Markup configuration - allow raw HTML in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

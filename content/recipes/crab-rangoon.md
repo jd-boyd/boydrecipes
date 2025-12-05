@@ -17,9 +17,9 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Mix crab, onion, and cream cheese.
-- 1. Put 2 tsp in each wonton wrapper, seal with water.
-- 1. Fry in oil at 350 ℉
+- Mix crab, onion, and cream cheese.
+- Put 2 tsp in each wonton wrapper, seal with water.
+- Fry in oil at 350 ℉
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

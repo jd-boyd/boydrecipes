@@ -22,8 +22,8 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Put syrup in bottom. Then custard on top. Cover with foil.
-- 1. Bring water in pan to just under boil. Put covered cups into pan. Water should rise halfway up cut sides. Cover with lid and keep under a boil for 18-20 minutes.
+- Put syrup in bottom. Then custard on top. Cover with foil.
+- Bring water in pan to just under boil. Put covered cups into pan. Water should rise halfway up cut sides. Cover with lid and keep under a boil for 18-20 minutes.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

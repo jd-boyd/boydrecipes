@@ -29,7 +29,7 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 8. Heat up a small skillet on medium heat and place a dollop of oil. Sear the pork for a minute and a half on each side until crispy.
+- Heat up a small skillet on medium heat and place a dollop of oil. Sear the pork for a minute and a half on each side until crispy.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

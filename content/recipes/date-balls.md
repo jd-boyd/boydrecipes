@@ -21,9 +21,9 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Mix dates, sugar, butter, eggs, and salt and cook in heavy pan until mixture bubbles, about 10 minutes.
-- 1. Add nuts and rice krispies.  Working quickly using spoons, form balls and drip into coconut and roll them.
-- 1. Place on wax paper to cool.
+- Mix dates, sugar, butter, eggs, and salt and cook in heavy pan until mixture bubbles, about 10 minutes.
+- Add nuts and rice krispies.  Working quickly using spoons, form balls and drip into coconut and roll them.
+- Place on wax paper to cool.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

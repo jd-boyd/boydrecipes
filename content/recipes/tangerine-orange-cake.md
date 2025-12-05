@@ -5,6 +5,10 @@ slug: tangerine-orange-cake
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2017/01/wp-1484788309083.jpg" alt="Tangerine Orange Cake" />
+</div>
+
 {{< recipe
   title="Tangerine Orange Cake"
 >}}

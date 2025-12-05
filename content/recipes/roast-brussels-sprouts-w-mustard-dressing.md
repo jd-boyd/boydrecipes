@@ -20,12 +20,12 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Preheat oven to 450 deg f.
-- 1. Line half-sheet pan with aluminum foil.
-- 1. Toss brussel sprouts with olive oil, salt, and pepper. Spread on half sheet pan.
-- 1. Roast for 20-30 minutes until golden and desired mix of crunchy/soft.  Flip after 10 minutes.
-- 1. While roasting, in a bowl that is large enough to eventually toss the brussels sprouts, whisk together vinegar, mustard, 1/4 tsp salt, 1/4 tsp pepper.  Slowly add 1/4c oil.
-- 1. Add roasted sprouts to dressing bowl and toss.
+- Preheat oven to 450 deg f.
+- Line half-sheet pan with aluminum foil.
+- Toss brussel sprouts with olive oil, salt, and pepper. Spread on half sheet pan.
+- Roast for 20-30 minutes until golden and desired mix of crunchy/soft.  Flip after 10 minutes.
+- While roasting, in a bowl that is large enough to eventually toss the brussels sprouts, whisk together vinegar, mustard, 1/4 tsp salt, 1/4 tsp pepper.  Slowly add 1/4c oil.
+- Add roasted sprouts to dressing bowl and toss.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

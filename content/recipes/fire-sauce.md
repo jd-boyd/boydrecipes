@@ -28,9 +28,9 @@ Makes about a pint.
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Blend ingredients.
-- 1. Bring mixture to a boil in a sauce pan and simmer for 10 minutes.
-- 1. Store in seal-able container, preferably refrigerate overnight.
+- Blend ingredients.
+- Bring mixture to a boil in a sauce pan and simmer for 10 minutes.
+- Store in seal-able container, preferably refrigerate overnight.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

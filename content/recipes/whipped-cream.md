@@ -16,10 +16,10 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Place bowl and whisk/beater in freezer, 10-20 minutes.
-- 1. Place sugar in mixer.
-- 1. Add cream and optional vanilla.
-- 1. Beat on medium than high until stiff peaks form.
+- Place bowl and whisk/beater in freezer, 10-20 minutes.
+- Place sugar in mixer.
+- Add cream and optional vanilla.
+- Beat on medium than high until stiff peaks form.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

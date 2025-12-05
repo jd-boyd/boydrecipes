@@ -5,6 +5,10 @@ slug: buckwheat-scallion-cr-pes
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2017/02/crepe_header.jpg" alt="Buckwheat Scallion Crêpes" />
+</div>
+
 {{< recipe
   title="Buckwheat Scallion Crêpes"
 >}}

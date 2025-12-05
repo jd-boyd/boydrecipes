@@ -26,13 +26,13 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Melt butter in stock pot
-- 1. Sweat leeks and garlic about 10 minutes
-- 1. Add potatoes, thyme, bay leaf, salt, pepper, broth.  Bring to boil, then reduce to simmer until potatoes are tender, about 15 minutes.
-- 1. Remove thyme stems and bay leaf.
-- 1. Blend (preferably with stick blender).
-- 1. Add sour cream and bacon.
-- 1. Serve in bowls topped with chives and cheddar.
+- Melt butter in stock pot
+- Sweat leeks and garlic about 10 minutes
+- Add potatoes, thyme, bay leaf, salt, pepper, broth.  Bring to boil, then reduce to simmer until potatoes are tender, about 15 minutes.
+- Remove thyme stems and bay leaf.
+- Blend (preferably with stick blender).
+- Add sour cream and bacon.
+- Serve in bowls topped with chives and cheddar.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

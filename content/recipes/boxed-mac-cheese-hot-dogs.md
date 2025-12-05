@@ -5,6 +5,10 @@ slug: boxed-mac-cheese-hot-dogs
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2024/12/pxl_20241230_013028687-424946356-e1735523188309.jpg" alt="Boxed Mac & Cheese + Hot Dogs" />
+</div>
+
 {{< recipe
   title="Boxed Mac & Cheese + Hot Dogs"
 >}}
@@ -18,12 +22,12 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Boil water (about 12 cups).
-- 1. Chop hot dogs into ~ 1/2" sections.
-- 1. Add pasta from boxes and hot dogs, cook 6 minutes
-- 1. Drain pasta and dogs and return to pan, off burner.
-- 1. Add butter, mustard, and cheese packages.  Stir until melted.
-- 1. Add Milk, stir in.
+- Boil water (about 12 cups).
+- Chop hot dogs into ~ 1/2" sections.
+- Add pasta from boxes and hot dogs, cook 6 minutes
+- Drain pasta and dogs and return to pan, off burner.
+- Add butter, mustard, and cheese packages.  Stir until melted.
+- Add Milk, stir in.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

@@ -5,6 +5,10 @@ slug: oatmeal-pecan-pie
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2018/11/img_0014.jpg" alt="Oatmeal Pecan Pie" />
+</div>
+
 {{< recipe
   title="Oatmeal Pecan Pie"
 >}}
@@ -22,17 +26,17 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. preheat oven to 325.
-- 1. in a medium pan melt butter.
-- 1. remove from heat, stir in sugar, corn syrup, and oats.
-- 1. stir in eggs and vanilla.
-- 1. pour into unbaked pie crust.
-- 1. top with pecans.
-- 1. cover edges of pie with tin foil to prevent overbrowning.
-- 1. bake for 25 minutes.
-- 1. remove foil, bake for an additional 20-25 minutes until set.
-- 1. cool on a wire rack.
-- 1. top with whipped cream if desired, and serve.
+- preheat oven to 325.
+- in a medium pan melt butter.
+- remove from heat, stir in sugar, corn syrup, and oats.
+- stir in eggs and vanilla.
+- pour into unbaked pie crust.
+- top with pecans.
+- cover edges of pie with tin foil to prevent overbrowning.
+- bake for 25 minutes.
+- remove foil, bake for an additional 20-25 minutes until set.
+- cool on a wire rack.
+- top with whipped cream if desired, and serve.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

@@ -31,17 +31,17 @@ draft: false
 - Pat turkey dry. Generously sprinkle the salt mixture on all surfaces. The turkey should be well coated but not encrusted.
 - Place the turkey on a rack set in a half sheet pan and
 - refrigerate, uncovered, for 12 to 24 hours, or loosly covered for up to 3 days.
-- 1. Food process all ingredients.
-- 1. Allow to warm to room temperature.
-- 1. Rub under and over skin before roasting bird.
-- 1. Pre-heat oven to 450 degrees F.
-- 1. Spread carrots, celery, onions on bottom of roasting pan or baking sheet.
-- 1. Place bird on top.
-- 1. Toast until the breast is over 150 degrees F and the thighs are at
+- Food process all ingredients.
+- Allow to warm to room temperature.
+- Rub under and over skin before roasting bird.
+- Pre-heat oven to 450 degrees F.
+- Spread carrots, celery, onions on bottom of roasting pan or baking sheet.
+- Place bird on top.
+- Toast until the breast is over 150 degrees F and the thighs are at
 - least 165 degrees F. About 75-90 minutes for a 12-14 lbs bird.
-- 1. If any part of the turkey is browning more than you like, put some foil over that portion.
-- 1. Remove turkey from oven, cover with aluminum foil, and wait 20 minutes.
-- 1. Carve and serve.
+- If any part of the turkey is browning more than you like, put some foil over that portion.
+- Remove turkey from oven, cover with aluminum foil, and wait 20 minutes.
+- Carve and serve.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

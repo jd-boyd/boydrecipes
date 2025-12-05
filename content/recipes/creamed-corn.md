@@ -19,11 +19,11 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Put corn in slow cooker.
-- 1. Place butter and cream cheese into slow cooker.
-- 1. Add sugar, salt and pepper.
-- 1. Cover and cook on low for 4 hours or high for 2 hours.
-- 1. Stir half way.
+- Put corn in slow cooker.
+- Place butter and cream cheese into slow cooker.
+- Add sugar, salt and pepper.
+- Cover and cook on low for 4 hours or high for 2 hours.
+- Stir half way.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

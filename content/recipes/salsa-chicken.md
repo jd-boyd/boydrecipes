@@ -19,7 +19,7 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 3. Stir in salsa. Reduce heat to low; cover and simmer 10 minutes.
+- Stir in salsa. Reduce heat to low; cover and simmer 10 minutes.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

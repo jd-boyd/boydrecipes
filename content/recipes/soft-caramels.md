@@ -5,6 +5,10 @@ slug: soft-caramels
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2020/03/img_20200324_2004594771641127243283573311-e1585169878587.jpg" alt="" />
+</div>
+
 {{< recipe
   title="Soft Caramels"
 >}}
@@ -21,14 +25,14 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Butter a 6x9 baking dish.
-- 1. Mix all but vanilla in a 3qt or larger pan. NOTE: This will foam up a lot more than you might expect, so be generous in pan size.
-- 1. Heat on medium heat until everything is melted together, approximately 20 minutes. Stir occasionally.
-- 1. Continue to cook until temperature is 245f to 250f, approximately 25 minutes.
-- 1. Poor into baking dish. Sprinkle salt on top (optional).
-- 1. Cool on counter until room temperature.
-- 1. Place in refrigerator 1 hour.
-- 1. Extract from dish and cut into bite size pieces.
+- Butter a 6x9 baking dish.
+- Mix all but vanilla in a 3qt or larger pan. NOTE: This will foam up a lot more than you might expect, so be generous in pan size.
+- Heat on medium heat until everything is melted together, approximately 20 minutes. Stir occasionally.
+- Continue to cook until temperature is 245f to 250f, approximately 25 minutes.
+- Poor into baking dish. Sprinkle salt on top (optional).
+- Cool on counter until room temperature.
+- Place in refrigerator 1 hour.
+- Extract from dish and cut into bite size pieces.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

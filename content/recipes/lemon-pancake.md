@@ -22,13 +22,13 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Add 3/4 of the lemon juice to the milk, then set aside for 5 minutes.
-- 1. Mix dry ingredients in mixing bowl.
-- 1. Add soured milk and vanilla, stirring gently, until partly combined.
-- 1. Add eggs and melted butter.
-- 1. All lemon zest.
-- 1. Adjust with milk or flour to desired consistency.
-- 1. Cook like normal pancakes 1/4-1/2 cup at a time.
+- Add 3/4 of the lemon juice to the milk, then set aside for 5 minutes.
+- Mix dry ingredients in mixing bowl.
+- Add soured milk and vanilla, stirring gently, until partly combined.
+- Add eggs and melted butter.
+- All lemon zest.
+- Adjust with milk or flour to desired consistency.
+- Cook like normal pancakes 1/4-1/2 cup at a time.
 {{< /recipe-instructions >}}
 
 {{< recipe-notes >}}

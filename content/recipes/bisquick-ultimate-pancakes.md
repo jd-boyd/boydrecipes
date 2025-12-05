@@ -19,10 +19,10 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Heat pan or griddle to 375 deg F (about medium to medium high)
-- 1. Mix all ingredients.
-- 1. Make each pancake about 1/4 c
-- 1. Cook until edges dry and bubbles mostly stop, then flip and cook slightly less time on the second side.
+- Heat pan or griddle to 375 deg F (about medium to medium high)
+- Mix all ingredients.
+- Make each pancake about 1/4 c
+- Cook until edges dry and bubbles mostly stop, then flip and cook slightly less time on the second side.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

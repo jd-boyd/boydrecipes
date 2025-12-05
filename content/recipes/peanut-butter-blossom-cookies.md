@@ -24,13 +24,13 @@ Source: Classic Peanut Butter Blossom Cookies
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. preheat oven to 375
-- 1. in mixer, beat sugars, peanut butter, regular butter, and egg.
-- 1. stir in flour, baking soda and baking powder.
-- 1. Scoop onto cookie sheet in 1 in (1 oz baller) balls, 2 in. apart.
-- 1. (Optional) roll in granulated sugar.
-- 1. Bake 8-10 minutes, until edges GBD.
-- 1. Immediate press 1 bud into the center of each cookie.
+- preheat oven to 375
+- in mixer, beat sugars, peanut butter, regular butter, and egg.
+- stir in flour, baking soda and baking powder.
+- Scoop onto cookie sheet in 1 in (1 oz baller) balls, 2 in. apart.
+- (Optional) roll in granulated sugar.
+- Bake 8-10 minutes, until edges GBD.
+- Immediate press 1 bud into the center of each cookie.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

@@ -32,7 +32,7 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 5. Add the deep-fried chicken cubes back into the wok. Stir-fry until the chicken cubes are browned (about 1 minute).
+- Add the deep-fried chicken cubes back into the wok. Stir-fry until the chicken cubes are browned (about 1 minute).
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

@@ -18,14 +18,14 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Grease 10" bundt pan
-- 1. Mix pudding mix, cinnamon, and sugar together.
-- 1. Place frozen buns in bundt pan.
-- 1. Sprinkle sugar mix over buns.
-- 1. Pour melted butter over buns/sugar mix.
-- 1. Cover with plastic wrap and let sit overnight.
-- 1. Preheat oven to 350 °F.
-- 1. Remove plastic wrap and place pan in over for 25 minutes or until golden brown and delicious.
+- Grease 10" bundt pan
+- Mix pudding mix, cinnamon, and sugar together.
+- Place frozen buns in bundt pan.
+- Sprinkle sugar mix over buns.
+- Pour melted butter over buns/sugar mix.
+- Cover with plastic wrap and let sit overnight.
+- Preheat oven to 350 °F.
+- Remove plastic wrap and place pan in over for 25 minutes or until golden brown and delicious.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

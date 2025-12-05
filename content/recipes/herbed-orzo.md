@@ -5,6 +5,10 @@ slug: herbed-orzo
 draft: false
 ---
 
+<div class="recipe-image">
+  <img src="/2019/01/img_20190128_191033711_hdr8270674472838532092.jpg" alt="Herbed Orzo" />
+</div>
+
 {{< recipe
   title="Herbed Orzo"
 >}}

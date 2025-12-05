@@ -19,14 +19,14 @@ draft: false
 {{< /recipe-ingredients >}}
 
 {{< recipe-instructions >}}
-- 1. Brown sausage, allow to cool
-- 1. Mix Ricotta, Mozzarella, Cheddar, garlic powder, and browned sausage.
-- 1. Cook shells according to package, err on toothy/firm/slightly undercoooked.
-- 1. Stuff shells with about 1.5 tbsp of cheese mixture.
-- 1. Lay stuffed shells on trays and freeze.
-- 1. Once frozen, can be moved to bags.
-- 1. To finish, place a thin layer of speghetti sauce in bottom of baking dish.  Place shells on top, top with more sauce and mozerrella.  Cover with foil.
-- 1. Bake at 350 for 30 minutes.  Remove foil and cook approximately 10 minutes more until over 140deg internally and cheese is browned.
+- Brown sausage, allow to cool
+- Mix Ricotta, Mozzarella, Cheddar, garlic powder, and browned sausage.
+- Cook shells according to package, err on toothy/firm/slightly undercoooked.
+- Stuff shells with about 1.5 tbsp of cheese mixture.
+- Lay stuffed shells on trays and freeze.
+- Once frozen, can be moved to bags.
+- To finish, place a thin layer of speghetti sauce in bottom of baking dish.  Place shells on top, top with more sauce and mozerrella.  Cover with foil.
+- Bake at 350 for 30 minutes.  Remove foil and cook approximately 10 minutes more until over 140deg internally and cheese is browned.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}

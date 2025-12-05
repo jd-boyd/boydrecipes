@@ -38,9 +38,9 @@ draft: false
 - heat. When oil is hot, add bell pepper and stir just until tender-crisp
 - to bite, about 3 minutes. Pour from pan into a bowl.
 - minutes. With a slotted spoon, transfer meat to bowl with pepper.
-- 5. To meat juices in pan, add lime juice, honey, hoisin sauce, soy
+- To meat juices in pan, add lime juice, honey, hoisin sauce, soy
 - bell pepper back into pan and stir until hot, about 30 seconds.
-- 6. Spoon beef stir-fry onto plates and sprinkle with cilantro.
+- Spoon beef stir-fry onto plates and sprinkle with cilantro.
 {{< /recipe-instructions >}}
 
 {{< /recipe >}}
