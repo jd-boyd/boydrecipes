@@ -1,0 +1,59 @@
+<div class="recipe-instructions">
+  <h3 class="instructions-title">Instructions</h3>
+  <ol class="instructions-list">
+    {{ .Inner | markdownify }}
+  </ol>
+</div>
+
+<style>
+  .recipe-instructions {
+    margin: 25px 0;
+  }
+  
+  .instructions-title {
+    color: #d97706;
+    border-left: 4px solid #f0a000;
+    padding-left: 12px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  .instructions-list {
+    counter-reset: step-counter;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .instructions-list li {
+    counter-increment: step-counter;
+    padding: 12px 0 12px 45px;
+    position: relative;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  .instructions-list li:before {
+    content: counter(step-counter);
+    position: absolute;
+    left: 0;
+    background: #d97706;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9em;
+    font-weight: bold;
+    line-height: 1;
+  }
+  
+  .instructions-list li:hover:before {
+    background: #f0a000;
+    box-shadow: 0 2px 6px rgba(214, 88, 0, 0.3);
+  }
+</style>
+

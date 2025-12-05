@@ -1,0 +1,89 @@
+{{- $title := .Get "title" -}}
+{{- $prepTime := .Get "prepTime" -}}
+{{- $cookTime := .Get "cookTime" -}}
+{{- $totalTime := .Get "totalTime" -}}
+{{- $servings := .Get "servings" -}}
+{{- $yield := .Get "yield" -}}
+
+<div class="recipe-card" itemscope itemtype="https://schema.org/Recipe">
+  <h2 class="recipe-title" itemprop="name">{{ $title }}</h2>
+  
+  <div class="recipe-meta">
+    {{ if $prepTime }}
+      <div class="recipe-meta-item prep-time">
+        <span class="meta-label">Prep Time:</span>
+        <span class="meta-value" itemprop="prepTime">{{ $prepTime }}</span>
+      </div>
+    {{ end }}
+    
+    {{ if $cookTime }}
+      <div class="recipe-meta-item cook-time">
+        <span class="meta-label">Cook Time:</span>
+        <span class="meta-value" itemprop="cookTime">{{ $cookTime }}</span>
+      </div>
+    {{ end }}
+    
+    {{ if $totalTime }}
+      <div class="recipe-meta-item total-time">
+        <span class="meta-label">Total Time:</span>
+        <span class="meta-value" itemprop="totalTime">{{ $totalTime }}</span>
+      </div>
+    {{ end }}
+    
+    {{ if or $servings $yield }}
+      <div class="recipe-meta-item servings">
+        <span class="meta-label">Servings:</span>
+        <span class="meta-value" itemprop="recipeYield">{{ $servings }}{{ $yield }}</span>
+      </div>
+    {{ end }}
+  </div>
+  
+  <div class="recipe-content">
+    {{ .Inner }}
+  </div>
+</div>
+
+<style>
+  .recipe-card {
+    border: 2px solid #f0a000;
+    border-radius: 8px;
+    padding: 25px;
+    margin: 30px 0;
+    background: linear-gradient(135deg, #fff9f0 0%, #fff 100%);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    page-break-inside: avoid;
+  }
+  
+  .recipe-title {
+    color: #d97706;
+    margin-top: 0;
+    margin-bottom: 15px;
+    border-bottom: 3px solid #f0a000;
+    padding-bottom: 10px;
+    font-size: 1.8em;
+  }
+  
+  .recipe-meta {
+    display: flex;
+    gap: 25px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+    font-size: 0.95em;
+  }
+  
+  .recipe-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .recipe-meta .meta-label {
+    font-weight: 600;
+    color: #666;
+  }
+  
+  .recipe-meta .meta-value {
+    color: #333;
+  }
+</style>
+
