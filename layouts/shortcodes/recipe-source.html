@@ -1,0 +1,46 @@
+{{ $url := .Get "url" }}
+{{ $name := .Get "name" }}
+
+<div class="recipe-source">
+  <p class="source-label">Recipe Source:</p>
+  {{ if $url }}
+    <p class="source-content"><a href="{{ $url }}" target="_blank" rel="noopener">{{ $name | default $url }}</a></p>
+  {{ else }}
+    <p class="source-content">{{ $name }}</p>
+  {{ end }}
+</div>
+
+<style>
+  .recipe-source {
+    margin: 20px 0;
+    padding: 15px 20px;
+    background-color: #f3f4f6;
+    border-left: 4px solid #6b7280;
+    border-radius: 4px;
+  }
+
+  .source-label {
+    font-weight: bold;
+    color: #374151;
+    margin: 0 0 5px 0;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .source-content {
+    margin: 0;
+    color: #1f2937;
+  }
+
+  .source-content a {
+    color: #2563eb;
+    text-decoration: none;
+    border-bottom: 1px solid #93c5fd;
+  }
+
+  .source-content a:hover {
+    color: #1d4ed8;
+    border-bottom-color: #2563eb;
+  }
+</style>

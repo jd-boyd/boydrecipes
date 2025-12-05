@@ -1,0 +1,22 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+        <p style="color: #666; font-size: 0.9em;">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        </p>
+    </header>
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+
+    <footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee;">
+        <p style="font-size: 0.9em; color: #666;">
+            <a href="/recipes/">← Back to all recipes</a>
+        </p>
+    </footer>
+</article>
+{{ end }}

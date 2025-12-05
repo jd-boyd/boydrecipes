@@ -1,0 +1,46 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ if .Content }}
+<div class="list-intro">
+    {{ .Content }}
+</div>
+{{ end }}
+
+<p style="color: #666; margin-bottom: 20px;">
+    {{ len .Pages }} recipes total
+</p>
+
+<div class="recipe-list">
+    {{ range .Pages }}
+    <article class="recipe-summary">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p style="color: #666; font-size: 0.9em;">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        </p>
+    </article>
+    {{ end }}
+</div>
+
+<style>
+    .recipe-summary {
+        padding: 20px;
+        margin-bottom: 20px;
+        border-left: 4px solid #f0a000;
+        background: #fff9f0;
+        border-radius: 4px;
+    }
+    .recipe-summary h2 {
+        margin-top: 0;
+        font-size: 1.3em;
+    }
+    .recipe-summary a {
+        text-decoration: none;
+    }
+    .recipe-summary a:hover {
+        text-decoration: underline;
+    }
+</style>
+{{ end }}

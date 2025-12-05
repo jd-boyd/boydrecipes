@@ -1,3 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://boydrecipes.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Boyd Recipes'
+theme = 'summer-qremix'
+
+# Preserve WordPress URL structure: /YYYY/MM/DD/post-slug/
+[permalinks]
+  recipes = '/:year/:month/:day/:slug/'
+
+# RSS Configuration
+[services.rss]
+  limit = 50  # Number of items in RSS feed
+
+# Site parameters
+[params]
+  description = 'Delicious recipes from our kitchen to yours'
+
+# Enable output formats
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+
+# Author info for RSS
+[author]
+  name = 'Boyd Recipes'

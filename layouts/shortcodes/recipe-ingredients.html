@@ -1,7 +1,11 @@
 <div class="recipe-ingredients">
   <h3 class="ingredients-title">Ingredients</h3>
   <ul class="ingredients-list">
-    {{ .Inner | markdownify }}
+    {{ range split (.Inner | plainify) "\n" }}
+      {{ if (trim . " -") }}
+        <li itemprop="recipeIngredient">{{ trim . " -" }}</li>
+      {{ end }}
+    {{ end }}
   </ul>
 </div>
 

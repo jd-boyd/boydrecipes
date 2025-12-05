@@ -1,7 +1,13 @@
-<div class="recipe-instructions">
+<div class="recipe-instructions" itemprop="recipeInstructions" itemscope itemtype="https://schema.org/HowToSection">
   <h3 class="instructions-title">Instructions</h3>
   <ol class="instructions-list">
-    {{ .Inner | markdownify }}
+    {{ range split (.Inner | plainify) "\n" }}
+      {{ if (trim . " -") }}
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToStep">
+          <span itemprop="text">{{ trim . " -" }}</span>
+        </li>
+      {{ end }}
+    {{ end }}
   </ol>
 </div>
 

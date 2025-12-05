@@ -1,0 +1,55 @@
+{{ define "title" }}{{ .Site.Title }} - Home{{ end }}
+
+{{ define "main" }}
+<h1>Welcome to {{ .Site.Title }}</h1>
+
+<p>Welcome to our collection of family recipes! Browse through our tried-and-true recipes that have been enjoyed for years.</p>
+
+<h2>Recent Recipes</h2>
+
+<div class="recipe-grid">
+    {{ range first 12 (where .Site.RegularPages "Section" "recipes").ByDate.Reverse }}
+    <article class="recipe-card-small">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p style="color: #666; font-size: 0.85em;">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        </p>
+    </article>
+    {{ end }}
+</div>
+
+<p style="margin-top: 30px;">
+    <a href="/recipes/" style="font-size: 1.1em; font-weight: 500;">View all recipes &rarr;</a>
+</p>
+
+<style>
+    .recipe-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        margin: 20px 0;
+    }
+    .recipe-card-small {
+        padding: 15px;
+        border: 2px solid #f0a000;
+        border-radius: 6px;
+        background: #fff9f0;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .recipe-card-small:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .recipe-card-small h3 {
+        margin: 0 0 10px 0;
+        font-size: 1.1em;
+    }
+    .recipe-card-small a {
+        text-decoration: none;
+        color: #d97706;
+    }
+    .recipe-card-small a:hover {
+        text-decoration: underline;
+    }
+</style>
+{{ end }}

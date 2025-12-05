@@ -6,8 +6,12 @@
 {{- $yield := .Get "yield" -}}
 
 <div class="recipe-card" itemscope itemtype="https://schema.org/Recipe">
+  <meta itemprop="datePublished" content="{{ .Page.Date.Format "2006-01-02" }}">
+  {{ with .Page.Params.image }}<meta itemprop="image" content="{{ . }}">{{ end }}
+  <meta itemprop="author" content="{{ .Site.Title }}">
+
   <h2 class="recipe-title" itemprop="name">{{ $title }}</h2>
-  
+
   <div class="recipe-meta">
     {{ if $prepTime }}
       <div class="recipe-meta-item prep-time">
